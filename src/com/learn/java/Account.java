@@ -37,7 +37,7 @@ public class Account {
 		
 	}
 	
-	//withdrawal method example
+	//withdrawal method
 	public void withdrawMoney(long withdraw){
 		
 		if (withdraw > 0 ) {
